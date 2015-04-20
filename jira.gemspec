@@ -40,4 +40,5 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rspec>, [">= 0"])
     s.add_dependency(%q<fakeweb>, [">= 1.2.7"])
   end
+  s.add_dependency(%q<sanitize>, [">= 0"])
 end
